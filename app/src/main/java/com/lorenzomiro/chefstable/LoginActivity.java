@@ -159,7 +159,7 @@ public class LoginActivity extends AppCompatActivity {
 
         Intent i = new Intent(this, MainActivity.class);
 
-        startActivity(in);
+        startActivity(i);
 
     }
 
