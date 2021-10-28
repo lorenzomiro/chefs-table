@@ -152,7 +152,6 @@ public class LoginActivity extends AppCompatActivity {
 
         });
 
-
     }
 
     private void go_to_main_activity() {
